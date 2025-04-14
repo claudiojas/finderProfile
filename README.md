@@ -57,4 +57,4 @@ Exemplos de usuários:
 - `gaearon`
 - `octocat`
 
-## Visite meu linkedin: https://www.linkedin.com/in/claudio-soares-dev/
+#### Visite meu linkedin: https://www.linkedin.com/in/claudio-soares-dev/
