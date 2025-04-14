@@ -53,8 +53,7 @@ http://localhost:5173
 
 Digite o nome de usuário na barra de busca e pressione `Enter`.  
 Exemplos de usuários:
-- `torvalds`
-- `gaearon`
-- `octocat`
+- `claudiojas`
+- `claudioares`
 
 #### Visite meu linkedin: https://www.linkedin.com/in/claudio-soares-dev/
